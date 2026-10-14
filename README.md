@@ -67,3 +67,34 @@ La implementación de las funcionalidades y las pruebas deberán documentarse cu
 4. Documentar los cambios realizados.
 5. Definir e implementar las funcionalidades pendientes.
 6. Realizar pruebas y preparar la siguiente versión del sistema.
+
+
+## 11. Registro de cambios
+
+| N.º | Avance o ajuste | Evidencia |
+|---|---|---|
+| 1 | Definición de requisitos funcionales y no funcionales. | Documento de requisitos. |
+| 2 | Elaboración del diagrama de casos de uso. | Visual Paradigm Online. |
+| 3 | Organización de tareas y prioridades. | GitHub Projects. |
+| 4 | Identificación de riesgos y acciones de respuesta. | Matriz de riesgos. |
+| 5 | Documentación de incidencias relacionadas con las funciones principales. | GitHub Issues. |
+
+Estos avances corresponden a trabajos documentados durante el desarrollo del proyecto y no sustituyen el historial de commits de GitHub.
+
+## 12. Documentación técnica y evidencias
+
+Se organizarán los requisitos, modelos UML, planificación, matriz de riesgos e incidencias disponibles. Cada elemento se incorporará al repositorio después de verificar su contenido.
+
+## 13. Nota técnica de versión inicial
+
+**Sistema:** Sistema de Gestión de Pedidos y Ventas
+
+**Versión documental propuesta:** 0.1.0
+
+**Contenido:** Documentación de requisitos, diagrama de casos de uso, planificación y riesgos.
+
+**Pendientes:** Verificar el código, comprobar la implementación de las funcionalidades y documentar las pruebas realizadas.
+
+**Próximo paso:** Organizar las evidencias en el repositorio, revisar los cambios guardados y determinar la siguiente funcionalidad que se implementará o validará.
+
+Esta nota describe el estado documental del proyecto y no certifica que exista una aplicación funcional terminada
